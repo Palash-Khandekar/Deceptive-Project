@@ -1,6 +1,9 @@
 # Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past? 
 ### _Guided by Guided by Prof. Michael Schermann_
 
+**For summary of the project, please watch this video -** 
+
+**Link to Tableau Public -**  https://public.tableau.com/profile/ritu.pardasani#!/vizhome/Deceptive_Project_Ritu/Dashboard2?publish=yes
 
 ## Introduction 
 
