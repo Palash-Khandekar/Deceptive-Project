@@ -206,49 +206,50 @@ As this was a deceptive project, I tried a lot of techniques (mostly various idi
 This visualization shows the airlines with zero mishaps with zero fatalities in both the time periods. Due to the value being zero they were difficult to plot on any of the carts, hence I used a table to depict the airline names and the number of fatalities which are all zero. This chart succeeded in showing the consistency but fails to prove the argument and support the claim. Hence I didnt use it. 
 
 
-                                                      *2*
+							*2*
                                                       
  <img width="630" alt="2" src="https://user-images.githubusercontent.com/32205588/32971640-fa06442c-cba2-11e7-8ad0-4deb39e4d381.png">
  
  This visualization just shows the incidents (fatal or non fatal both) that took place in both the time spans (1985-99 and 2000-14). The trend line shows that there is pattern. However, the argument cannot be explicitly supported by this chart. While this chart helped me get a direction, as a slight pattern could be seen. 
  
  
- 																											*3*
+ 															
+							*3*
 																											
 <img width="898" alt="3" src="https://user-images.githubusercontent.com/32205588/32971778-ad18fa50-cba3-11e7-9ad3-88498234955f.png">
 
 I tried to convey the same message using a bar chart, so that an easy comparison of the fatalities can be seen with two bars. However, this chart looked very complex and didn't convey the message strongly. Secondly, scrolling makes people loose the question that they are looking for. Hence I didn't use this type of a chart. 
 
 
-																											*4*
+							*4*
 																											
 <img width="896" alt="4" src="https://user-images.githubusercontent.com/32205588/32971856-15e5a3f8-cba4-11e7-95ca-5ef02f2cdee9.png">
 
 This visualization shows a comparison of fatal accidents and the number of deaths due to those fatal accidents. I chose to show this way because there were airlines who had less number of fatalities but had more fatal accidents and vice versa. I was trying to see a trend and hence I tried this. This chart doesn't really show anything and is difficult to comprehend, hence was not used. 
 
 
-																											*5*
+							*5*
 																											
 <img width="592" alt="5" src="https://user-images.githubusercontent.com/32205588/32971966-a80f60b6-cba4-11e7-8e7c-554a0745c73f.png">
 
 I decided to change the parameter to fatal accidents of both the time spans to see the trend. This chart also didn't show any kind of comparison, contrast or trend. Hence, was not used. 
 
 
-																											*6*
+							*6*
 																											
 <img width="686" alt="6" src="https://user-images.githubusercontent.com/32205588/32972021-e8e1140e-cba4-11e7-9b9e-eb313756c695.png">
 
 I tried to make separate visualizations for both the time spans. This chart shows accidents and fatalities for 1985 to 1999.
 
 
-																										  *7*
+							*7*
 
 <img width="692" alt="7" src="https://user-images.githubusercontent.com/32205588/32972074-38dcd47a-cba5-11e7-9675-e150fa92d9de.png">
 
 This chart shows the accidents and fatalities for 2000 to 2014. 
 
 
-																											*8*
+							*8*
 																											
 <img width="1058" alt="8" src="https://user-images.githubusercontent.com/32205588/32972104-5bc4c592-cba5-11e7-8717-d31e38d0e6cb.png">
 
@@ -259,30 +260,11 @@ This combined chart was also made to see any comparisons, contrasts or trends be
 With visualization being used extensively, considering its high persuasive power, deceptive visualization has found its way into the main stream industries where we are often conned into interpreting wrong information.
 
 ♣	Firstly, this project helped me develop a complete sense of building and analyzing a visualization, where not only visuals but the interpretation matters.
+
 ♣	Secondly, there is always a way to tweak and misrepresent data and to analyze the data and the visualization for any deception. 
+
 ♣	Lastly, the same visualization can either be truthful or deceptive, depending upon the claim. Hence, 
 the claim plays a very important role in designing any visualization 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
