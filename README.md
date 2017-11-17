@@ -1,6 +1,6 @@
 # Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past? 
-## Deceptive Project 
 ### _Guided by Guided by Prof. Michael Schermann_
+
 
 ## Introduction 
 
@@ -34,7 +34,7 @@ https://github.com/fivethirtyeight/data/tree/master/airline-safety
 
 ## Argument
 
-_**Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?**_
+#### _Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?_
 
 ### Why I chose this argument?
 
@@ -55,7 +55,7 @@ _**•	Warrant:**_ Academic studies, articles and News show that Crashes are ran
 
 _**•	Backing:**_ Kenya Airways and Gulf air, both were fatality free until 2000. Also, Japan Airlines, SWISS, Aviana, Iberia, Vietnam, South African etc. have had major crashes in the past but never faced fatalities again. 
 
-### About the truthful version –
+### About the truthful version:
 
 The claim of the data is trying to show that there are inconsistencies between the mishaps of different airlines between the two time periods. 
 
@@ -131,12 +131,19 @@ Now, addressing some important factors related to the audience:
   _**•	Wants:**_ Wants are the way they would want to see this data. My visualizations (both the true and deceptive version) are made in a way which is understandable by everyone (also those who are not skilled in reading charts).
   
   _**•	Fears:**_
+  
         ♣	Is the airline safe?
+        
         ♣	Will it again face an incident? 
+        
         ♣	How many incidents has it faced already? 
+        
         ♣	Were all of those incidents fatal accidents? 
+        
         ♣	How many fatalities happened in those incidents? 
+        
         ♣	Is there a pattern?
+        
         ♣	Can the crashes be predicted?
 
 All of the above mentioned questions are the fears of prospective flyers. My visualizations answer all the questions mentioned above. 
@@ -148,6 +155,7 @@ I have taken number of deaths (fatalities) for both the spans (1985-99 and 2000-
 The goal was to prove that:
 
    ♣	The crashes are inconsistent for the true version.
+   
    ♣	The crashes are consistent for the deceptive version. 
   
 I also tried using other metrics like just the number of incidents occurred in both the spans and number of fatal accidents occurred in both the spans. I also tried prove consistency by showing zero consistencies (showing airlines that have had zero accidents in both the spans). However, all of these metrics were not promisingly sufficing my goal. 
@@ -155,37 +163,98 @@ I also tried using other metrics like just the number of incidents occurred in b
 **Actions invoked:**
 
    ♣	_**True version –**_ The prospective flyers will not avoid airlines that have had crashes. People will stop worrying so much and select airlines on some other parameters considering that mostly all airlines are safe. 
+   
    ♣	_**Deceptive version –**_ The prospective flyers will not fly through the airlines shown in the chart. Considering so many fatalities, people will consider these airlines as unsafe and hence won’t travel using these. 
 
 
-4.	Situational Framework: 
-In this situation, I have to perform deception. There are 2 types of deception:
-♣	Chart level deception:  When the user interprets the wrong data, i.e. the data is visualized in such a way that the user ends interpreting the data wrongly even if the underlying data is correct.
+### 4.	Situational Framework: 
 
-♣	Message level deception: When the visualization is misrepresented and the user is forced to conclude incorrectly even when the interpretation of the data by the user is correct. 
+In this situation, I have to perform deception. There are 2 types of deception:
+
+_**♣	Chart level deception:**_  When the user interprets the wrong data, i.e. the data is visualized in such a way that the user ends interpreting the data wrongly even if the underlying data is correct.
+
+_**♣	Message level deception:**_ When the visualization is misrepresented and the user is forced to conclude incorrectly even when the interpretation of the data by the user is correct. 
 
 The deception type I have used is ‘message level’ as I have misrepresented the data by excluding some of the airline names. 
 
 
-5.	Data Validation:
+### 5.	Data Validation:
+
 My visualizations and their explanations along with warrants and backing are validating the data that I used. The data is complete, not changed and no assumptions have been made about the topic. The data depicted by the charts is the real data from the data set about airline safety. Lastly, as there is only one data set, there was no integration problem. 
 
-6.	Aesthetics: 
+### 6.	Aesthetics: 
+
 ♣	The best way to represent this data and covey the message was to show the data using scatter plot. 
+
 ♣	I have used different symbols for both the charts on purpose. The red cross sign is used deliberately to give a negative “danger” effect. 
+
 ♣	The titles of the chart pretty much explain the chart’s purpose. 
+
 ♣	The name of the axis is clearly mentioned as the comparison is between two different time spans. 
 
 
-
-
-
-Intermediate versions and Failed Visualizations:
+## Intermediate versions and Failed Visualizations
 
 As this was a deceptive project, I tried a lot of techniques (mostly various idioms) to convey my claims. In this process I came across a lot if intermediate versions and failed visualizations. 
 
 
-Take away from this project-
+                                                      *1*
+                                                      
+<img width="532" alt="1" src="https://user-images.githubusercontent.com/32205588/32971546-8f817f90-cba2-11e7-9765-bab6ce379ba4.png">
+
+
+This visualization shows the airlines with zero mishaps with zero fatalities in both the time periods. Due to the value being zero they were difficult to plot on any of the carts, hence I used a table to depict the airline names and the number of fatalities which are all zero. This chart succeeded in showing the consistency but fails to prove the argument and support the claim. Hence I didnt use it. 
+
+
+                                                      *2*
+                                                      
+ <img width="630" alt="2" src="https://user-images.githubusercontent.com/32205588/32971640-fa06442c-cba2-11e7-8ad0-4deb39e4d381.png">
+ 
+ This visualization just shows the incidents (fatal or non fatal both) that took place in both the time spans (1985-99 and 2000-14). The trend line shows that there is pattern. However, the argument cannot be explicitly supported by this chart. While this chart helped me get a direction, as a slight pattern could be seen. 
+ 
+ 
+ 																											*3*
+																											
+<img width="898" alt="3" src="https://user-images.githubusercontent.com/32205588/32971778-ad18fa50-cba3-11e7-9ad3-88498234955f.png">
+
+I tried to convey the same message using a bar chart, so that an easy comparison of the fatalities can be seen with two bars. However, this chart looked very complex and didn't convey the message strongly. Secondly, scrolling makes people loose the question that they are looking for. Hence I didn't use this type of a chart. 
+
+
+																											*4*
+																											
+<img width="896" alt="4" src="https://user-images.githubusercontent.com/32205588/32971856-15e5a3f8-cba4-11e7-95ca-5ef02f2cdee9.png">
+
+This visualization shows a comparison of fatal accidents and the number of deaths due to those fatal accidents. I chose to show this way because there were airlines who had less number of fatalities but had more fatal accidents and vice versa. I was trying to see a trend and hence I tried this. This chart doesn't really show anything and is difficult to comprehend, hence was not used. 
+
+
+																											*5*
+																											
+<img width="592" alt="5" src="https://user-images.githubusercontent.com/32205588/32971966-a80f60b6-cba4-11e7-8e7c-554a0745c73f.png">
+
+I decided to change the parameter to fatal accidents of both the time spans to see the trend. This chart also didn't show any kind of comparison, contrast or trend. Hence, was not used. 
+
+
+																											*6*
+																											
+<img width="686" alt="6" src="https://user-images.githubusercontent.com/32205588/32972021-e8e1140e-cba4-11e7-9b9e-eb313756c695.png">
+
+I tried to make separate visualizations for both the time spans. This chart shows accidents and fatalities for 1985 to 1999.
+
+
+																										  *7*
+
+<img width="692" alt="7" src="https://user-images.githubusercontent.com/32205588/32972074-38dcd47a-cba5-11e7-9675-e150fa92d9de.png">
+
+This chart shows the accidents and fatalities for 2000 to 2014. 
+
+
+																											*8*
+																											
+<img width="1058" alt="8" src="https://user-images.githubusercontent.com/32205588/32972104-5bc4c592-cba5-11e7-8717-d31e38d0e6cb.png">
+
+This combined chart was also made to see any comparisons, contrasts or trends between the two. This was comparitively easy to read, but was difficult to analyze. Hence was rejected. 
+
+## Take aways from this project
 
 With visualization being used extensively, considering its high persuasive power, deceptive visualization has found its way into the main stream industries where we are often conned into interpreting wrong information.
 
@@ -199,7 +268,6 @@ the claim plays a very important role in designing any visualization
 
 
 
-The second visualization shows the airlines with zero mishaps with zero fatalities in both the time periods. Due to the value being zero they were difficult to plot on any of the carts, hence I have used a table to depict the airline names and the number of fatalities which are all zero. 
 
 
 
