@@ -266,5 +266,19 @@ With visualization being used extensively, considering its high persuasive power
 ♣	Lastly, the same visualization can either be truthful or deceptive, depending upon the claim. Hence, 
 the claim plays a very important role in designing any visualization 
 
+## Refrences
+
+https://fivethirtyeight.com/tag/airline-safety/
+
+https://github.com/fivethirtyeight/data/tree/master/airline-safety
+
+https://www.thedailybeast.com/why-are-asias-planes-crashing-all-over
+
+http://www.nydailynews.com/news/world/obama-pilot-unsafe-airlines-won-fly-article-1.2215362
+
+https://www.cnbc.com/2014/12/30/despite-fatal-airline-crash-statistics-flying-is-still-safe.html
+
+
+
 
 
