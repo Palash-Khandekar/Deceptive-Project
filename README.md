@@ -1,9 +1,9 @@
 # Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past? 
 ### _Guided by Guided by Prof. Michael Schermann_
 
-**For summary of the project, please watch this video -** 
+_**For summary of the project, please watch this video -**_ https://drive.google.com/open?id=18RJjFMqIBDHCOmdey4SyDnrwhZ_XXabQ
 
-**Link to Tableau Public -**  https://public.tableau.com/profile/ritu.pardasani#!/vizhome/Deceptive_Project_Ritu/Dashboard2?publish=yes
+_**Link to Tableau Public -**_  https://public.tableau.com/profile/ritu.pardasani#!/vizhome/Deceptive_Project_Ritu/Dashboard2?publish=yes
 
 ## Introduction 
 
@@ -39,7 +39,7 @@ https://github.com/fivethirtyeight/data/tree/master/airline-safety
 
 #### _Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?_
 
-### Why I chose this argument?
+### _Why_ I chose this argument?
 
 •	Firstly, People are becoming biased towards choosing an airline if it has faced mishaps in the past. Is it rational to do so? I feel, crashes are random events and can happen to any airline. Hence this kind of thinking could be changed or could be enhanced using the same data. I wanted to try doing both. 
 
